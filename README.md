@@ -9,11 +9,11 @@
 <img src="https://user-images.githubusercontent.com/90963726/186987710-c52948ee-c0a0-4148-9c62-d7d674c9361d.jpg" alt="Laptop image" width="400" align="right" />
 
 # 💫 About Me:
-- 🔭 I’m currently working on Solidity.
+- 🔭 I’m currently exploring Solidity.
 
 - 🌱 I’m currently learning Data Structures and Algorithms.
 
-- 📫 How to reach me anupriyalathey@gmail.com.
+- 📫 How to reach me alathey_be21@thapar.edu.
 
 - ⚡ Fun fact: I make digital art too.
 
