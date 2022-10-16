@@ -11,7 +11,7 @@
 # 💫 About Me:
 - 🔭 I’m currently exploring Solidity.
 
-- 🌱 I’m currently learning Data Structures and Algorithms.
+- 🌱 I’m currently learning ReactJS.
 
 - 📫 How to reach me alathey_be21@thapar.edu.
 
@@ -29,6 +29,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=anupriyalathey&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anupriyalathey&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anupriyalathey&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anupriyalathey&theme=radical&no-frame=false&no-bg=false&margin-w=4)
